@@ -14,7 +14,7 @@
 body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 1.5;
   color: #777777;
   color: #7f7f7f;
@@ -1073,7 +1073,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 80px;
   height: 2px;
   background: #52d3aa;
-  left: 0%;
+  left: 46%;
   margin-left: 0px;
   bottom: 0;
 }
